@@ -27,7 +27,7 @@ export default function App() {
           </div>
 
           <h1 className="mt-5 text-3xl font-semibold text-white">
-            Synthetix AI
+            team-sync
           </h1>
 
           <p className="mt-2 text-sm text-gray-400">
@@ -223,7 +223,7 @@ export default function App() {
         <div className="mt-8 border-t border-[#33303d] pt-6 text-center text-xs text-gray-500">
 
           <p>
-            © 2024 Synthetix AI Enterprise Intelligence Platforms.
+            © 2024 team-sync Enterprise Intelligence Platforms.
           </p>
 
           <div className="flex justify-center gap-5 mt-2">

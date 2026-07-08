@@ -38,12 +38,12 @@ let {register,handleSubmit,onRegisterSubmit,watch,errors,navigate} = useAuth();
                 "url('https://images.unsplash.com/photo-1633412802994-5c058f151b66?q=80&w=1200&auto=format&fit=crop')",
             }}
           >
-            <div className="absolute inset-0   from-[#10142fcc]/70 to-[#0d0b15]/90" />
+            <div className="absolute inset-0  bg-gradient-to-b from-[#10142fcc]/70 to-[#0d0b15]/90" />
 
             <div className="relative z-10 p-8 h-full flex flex-col">
               <div className="flex items-center gap-2 font-bold">
                 <BrainCircuit className="text-violet-400" />
-                Synthetix AI
+                team-sync
               </div>
 
               <div className="mt-auto">
@@ -214,7 +214,7 @@ let {register,handleSubmit,onRegisterSubmit,watch,errors,navigate} = useAuth();
       </main>
 
       <footer className="border-t border-[#2d2938] px-8 py-5 flex flex-col md:flex-row justify-between gap-4 text-xs text-gray-400">
-        <h3 className="font-bold text-white">Synthetix AI</h3>
+        <h3 className="font-bold text-white">team-sync</h3>
 
         <div className="flex gap-6">
           <span>Privacy Policy</span>
@@ -224,7 +224,7 @@ let {register,handleSubmit,onRegisterSubmit,watch,errors,navigate} = useAuth();
         </div>
 
         <span>
-          © 2024 Synthetix AI. Enterprise Intelligence Platforms.
+          © 2024 team-sync. Enterprise Intelligence Platforms.
         </span>
       </footer>
     </div>
